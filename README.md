@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=roinerda&label=Profile%20views&color=0e75b6&style=flat" alt="roinerda" /> </p>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Zha29keTNkM2pkZ3pxNjJoNDJ2ZDZtcHA5b2FkbDFwaTh5YWt1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif" alt="Super cool, kinda great movie"/>
+</p>
 
-<!--
-**roinerda/roinerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎈 Lang **ESP**
+- 🕶️ I’m from **Costa Rica**
+- 🌱 I’m currently learning **Java** 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/roinerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roinerda" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+![](https://skillicons.dev/icons?i=github,java,&perline=6)
+
+<hr>
+<h3 align="left">Stats, like a Pokemon:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="roinerda" alt="jeftedariel" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roinerda&show_icons=true&locale=en&hide=html&langs_count=6" alt="roinerda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roinerda&show_icons=true&locale=en" alt="roinerda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roinerda&" alt="roinerda" /></p>
+
+<a href=#><img src="contributions.svg"></a>
