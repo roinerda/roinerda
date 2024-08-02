@@ -4,7 +4,7 @@
 </p>
 
 
-- 🎈 Lang **ESP**
+
 - 🕶️ I’m from **Costa Rica**
 - 🌱 I’m currently learning **Java** 
 <h3 align="left">Connect with me:</h3>
