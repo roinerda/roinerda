@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=github,java,css,html,&perline=6)
+![](https://skillicons.dev/icons?i=github,java,css,html,git,mysql,&perline=6)
 
 <hr>
 <h3 align="left">Stats, like a Pokemon:</h3>
