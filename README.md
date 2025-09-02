@@ -24,7 +24,7 @@
 <br>
 <a href =https://github.com/roinerda/Tienda_Virtual >Tienda Virtual </a>
 <br>
-<a href=https://tiendavirtual-production-6786.up.railway.app> Hosting con Railway </a>
+<a href=https://tiendavirtual-production-6786.up.railway.app> Hosting de la tienda virtual con Railway </a>
 
 ## 🛠 &nbsp;Tech Stack
 
