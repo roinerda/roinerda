@@ -18,6 +18,13 @@
 - 💬 ESP-ENG
 - 🌱 I’m diving deeper into Web Develoment
   
+#### 🖥️ Projects
+ 
+<a href=https://github.com/roinerda/web-project>Simulacion de reservas de Hoteles </a>
+<br>
+<a href =https://github.com/roinerda/Tienda_Virtual >Tienda Virtual </a>
+<br>
+<a href=https://tiendavirtual-production-6786.up.railway.app> Hosting con Railway </a>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -37,12 +44,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-#### 🖥️ Projects
-<h2>Simulacion de reservas de Hoteles</h2>   
-<a href=https://github.com/roinerda/web-project> </a>
-<h2>Tienda Virtual con Hosting en Railway </h2>
-<a href =https://github.com/roinerda/Tienda_Virtual >  </a>
-<a>https://tiendavirtual-production-6786.up.railway.app /</a>
+
 
 #### 🔧 Tools
 
