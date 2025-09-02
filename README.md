@@ -39,9 +39,9 @@
 
 #### 🖥️ Projects
 <h2>Simulacion de reservas de Hoteles</h2>   
-<a> https://github.com/roinerda/web-project </a>
+<a href=https://github.com/roinerda/web-project> </a>
 <h2>Tienda Virtual con Hosting en Railway </h2>
-<a> https://github.com/roinerda/Tienda_Virtual </a>
+<a href =https://github.com/roinerda/Tienda_Virtual >  </a>
 <a>https://tiendavirtual-production-6786.up.railway.app /</a>
 
 #### 🔧 Tools
